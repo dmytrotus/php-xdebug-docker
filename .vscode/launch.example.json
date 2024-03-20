@@ -10,7 +10,7 @@
             "request": "launch",
             "port": 9003,
             "pathMappings": {
-                "/var/www/project": "/Users/dmytrotus/Documents/web/other/xdebug"
+                "/var/www/project": "/Users/[username]/Documents/web/other/xdebug"
             }
         },
         {

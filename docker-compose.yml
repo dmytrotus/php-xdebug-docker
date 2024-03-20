@@ -19,7 +19,7 @@ services:
         build:
             context: .
             dockerfile: ./docker/php/Dockerfile
-        container_name: xdebug-php-nodejs
+        container_name: xdebug-php
         ports:
             - "4441:9000"
         volumes:
